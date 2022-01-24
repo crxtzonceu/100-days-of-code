@@ -6,3 +6,8 @@
 
 **Thoughts:** Im getting confused sometimes because of too much information i am reading about css but im taking a rest and explore about the certain topic. 
 
+
+**Today's Progress**: Studied CSS list and positions. Finished HTML and CSS homework exercises.
+
+**Thoughts:** Positioning and styling a website element is hard and exhausting. I hope i can be better at web development.
+
