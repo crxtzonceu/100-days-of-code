@@ -1,13 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 1: Monday January 24, 2022 
 
-**Today's Progress**: Watch and Read how internet works. Reviewed html tags on anki and read CSS gradients today. Joined 100 days of code and it helps me motivate unlike before.
+### Day 1: Tuesday March 22, 2022 
 
-**Thoughts:** Im getting confused sometimes because of too much information i am reading about css but im taking a rest and explore about the certain topic. 
+**Today's Progress**: Learned the basics of github and git with windows. Will review html,css and javascript today.
 
-
-**Today's Progress**: Studied CSS list and positions. Finished HTML and CSS homework exercises.
-
-**Thoughts:** Positioning and styling a website element is hard and exhausting. I hope i can be better at web development.
-
+**Thoughts:** I hope i can be consistent again since i quit coding a month ago.
